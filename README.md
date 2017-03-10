@@ -2,7 +2,7 @@
 contains .gitignore files for different project types
 
 #reactjs projects
-
+´´´
 .DS_STORE
 node_modules
 *~
@@ -34,3 +34,4 @@ chrome-user-data
 .idea
 *.iml
 .vscode
+´´´
