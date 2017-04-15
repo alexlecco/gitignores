@@ -35,3 +35,12 @@ chrome-user-data
 *.iml
 .vscode
 ```
+
+#rails projects
+```bash
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+```
